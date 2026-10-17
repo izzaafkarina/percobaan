@@ -1,0 +1,5 @@
+RENCANA BELAJAR GIT DAN GITHUB
+1. Pahami GitHub
+2. Pahami Git
+3. Pakai laptop sekolah kalo di sekolah
+4. Pakai laptop personal kalo di rumah
