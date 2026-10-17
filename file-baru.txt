@@ -5,5 +5,5 @@ commit: track perubahan file
 branch: salinan repo yang memungkin kita menambah code baru, dan jika sudah fix bisa di merge ke branch utama
 merge: gabungkan branch
 clone: menyalin repo dari GitHub ke komputer lokal
-push
-pull
+push: mengirimkan kode dari komputer lokal ke GitHub
+pull: mengambil kode dari GitHub ke komputer lokal
