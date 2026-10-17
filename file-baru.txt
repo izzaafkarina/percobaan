@@ -1,5 +1,4 @@
-Percobaan Membuat File Baru di GitHub
--belajar pengertian dari beberapa hal di GitHub
+Belajar pengertian dari beberapa hal di GitHub
 repo: folder di github
 commit: track perubahan file
 branch: salinan repo yang memungkin kita menambah code baru, dan jika sudah fix bisa di merge ke branch utama
