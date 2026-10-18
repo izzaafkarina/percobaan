@@ -5,4 +5,4 @@ RENCANA BELAJAR GIT DAN GITHUB
 4. Hubungkan Git dan GitHub
 5. Pakai laptop sekolah kalo di sekolah
 6. Pakai laptop personal kalo di rumah
-7. ntah mau diisi apa pun
+7. ga tau mau diisi apa lagi
