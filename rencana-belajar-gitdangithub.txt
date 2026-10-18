@@ -2,5 +2,6 @@ RENCANA BELAJAR GIT DAN GITHUB
 1. Pahami GitHub
 2. Pahami Git
 3. Install Git di semua laptop
-4. Pakai laptop sekolah kalo di sekolah
-5. Pakai laptop personal kalo di rumah
+4. Hubungkan Git dan GitHub
+5. Pakai laptop sekolah kalo di sekolah
+6. Pakai laptop personal kalo di rumah
